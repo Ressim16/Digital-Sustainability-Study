@@ -2,3 +2,4 @@ File to pull from GitHub to the desktop
 git status
 git checkout main
 git pull
+...
