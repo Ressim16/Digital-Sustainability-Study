@@ -1,8 +1,0 @@
-File to pull from GitHub to the desktop
-git status
-git checkout main
-git pull (ça reprends tout les fichier de GitHub, les mets a jour et les download locally
-...
-On modifie sur test_branch : git branch test_branch, git checkout test_branch, (et modif file), puis on sauve les modif avec git add et git commit -m "message"
-Et on actualise la branch à la main de GitHub : git push -u origin test_branch (ensuite sur GitHub on va sous fork (pour la branch qui a été pushed et on fait une pull request directement sur GitHub))
-(si on veut aussi ça marche comma ça) : git checkout main, git push (tout court), il n'y aura pas de pull request vu qu'on est directement sur main
