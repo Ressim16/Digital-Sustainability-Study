@@ -3,3 +3,6 @@ git status
 git checkout main
 git pull
 ...
+On modifie sur test_branch : git branch test_branch, git checkout test_branch, (et modif file)
+Et on actualise la branch à la main de GitHub : git push -u origin test_branch (ensuite sur GitHub on va sous fork (pour la branch qui a été pushed et on fait une pull request))
+(si on veut aussi ça marche comma ça)
